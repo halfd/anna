@@ -1,5 +1,6 @@
 # Fetch title from links posted in the channel
 # An idea from london hackspace's IRC - earlbot
+# See more here : https://github.com/evilstreak/earlbot/blob/master/earl.pl
 
 local utils   = require 'lem.utils'
 local streams = require 'lem.streams'
